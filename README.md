@@ -79,4 +79,3 @@ MIT License - See [LICENSE](LICENSE) for details
 
 **Created with ❤️ by [apaww](https://github.com/apaww) and [Andrew Akentev](https://github.com/AnAkfiaSaltes)**  
 [Report Issues](https://github.com/apaww/Arctic-Adventures-Bot/issues) | [Contribute](https://github.com/apaww/Arctic-Adventures-Bot/pulls)
-```
