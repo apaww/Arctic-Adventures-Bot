@@ -28,8 +28,8 @@ A Telegram bot for discovering and managing sights in Arkhangelskaya Oblast' wit
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/arkhangelsk-bot.git
-cd arkhangelsk-bot
+git clone https://github.com/apaww/Arctic-Adventures-Bot/
+cd Arctic-Adventures-Bot
 ```
 
 2. **Install Dependencies**
